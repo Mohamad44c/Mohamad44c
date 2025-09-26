@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Mohamad (Mohamad44c)
+# 👋 Hi there, I’m Mohamad
 
 > Config files & showcase of my GitHub profile  
 > I’m a full-stack / web developer with a focus on Next.js, React, and PostgreSQL.
@@ -9,10 +9,10 @@
 
 | Layer | Technologies |
 |---|---|
-| Frontend | React, Next.js, Tailwind CSS, CSS Modules / Styled Components |
-| Backend / API | Node.js, Next.js API routes, Express (if used) |
-| Database | PostgreSQL, Prisma / TypeORM / pg |
-| DevOps / Infra | Vercel / Netlify, Docker, GitHub Actions |
+| Frontend | React, Next.js, Tailwind CSS, Styled Components |
+| Backend / API | Node.js, Next.js API routes |
+| Database | PostgreSQL, Drizzle / TypeORM / pg |
+| DevOps / Vercel, Docker, GitHub Actions |
 | Utilities | ESLint, Prettier, Jest / Testing Library, SWR / React Query |
 
 ---
@@ -52,8 +52,8 @@ Here are some of my notable works:
 ## 💼 Contact Me
 
 - 🏷️ GitHub: [Mohamad44c](https://github.com/Mohamad44c)  
-- 📫 Email: **your.email@example.com**  
-- 💬 Twitter / LinkedIn / Dev profile: *Add your social links*
+- 📫 Email: **mc@novium.io**  
+- 💬 Twitter / LinkedIn / Dev profile: **
 
 ---
 
