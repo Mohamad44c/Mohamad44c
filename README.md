@@ -11,9 +11,9 @@
 |---|---|
 | Frontend | React, Next.js, Tailwind CSS, Styled Components |
 | Backend / API | Node.js, Next.js API routes |
-| Database | PostgreSQL, Drizzle / TypeORM / pg |
+| Database | PostgreSQL, Drizzle / pg |
 | DevOps / Vercel, Docker, GitHub Actions |
-| Utilities | ESLint, Prettier, Jest / Testing Library, SWR / React Query |
+| Utilities | ESLint, Prettier, React Query |
 
 ---
 
@@ -35,8 +35,6 @@ Here are some of my notable works:
 - **Open Source Contributions** – (List some repos you contributed to)  
 - **Profile Configs** – This repo holds my GitHub profile configs, README, and other visual setups
 
-> *You can add links to your top repos, live demos, or blog posts here.*
-
 ---
 
 ## 🎯 Goals & What I’m Learning
@@ -44,8 +42,6 @@ Here are some of my notable works:
 - Deepening knowledge of performance optimization in Next.js  
 - Building real-time features (WebSockets, subscriptions)  
 - Exploring typesafe integrations (e.g. tRPC)  
-- Strengthening CI/CD pipelines and infrastructure as code  
-- Contributing more to open source  
 
 ---
 
@@ -53,17 +49,6 @@ Here are some of my notable works:
 
 - 🏷️ GitHub: [Mohamad44c](https://github.com/Mohamad44c)  
 - 📫 Email: **mc@novium.io**  
-- 💬 Twitter / LinkedIn / Dev profile: **
-
----
-
-## 📝 How to Use This Repo
-
-This repo is for your profile, config files, and to showcase your identity as a developer. You can:
-
-- Use this as the “Profile README” (the special repo named same as your username)
-- Store configuration files (dotfiles, GitHub Actions, etc.)
-- Keep a curated list of your projects, skills, and links
 
 ---
 
