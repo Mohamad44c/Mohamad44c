@@ -31,8 +31,6 @@ Here are some of my notable works:
 
 - **Next.js + PostgreSQL Starter** – A boilerplate / starter kit combining Next.js, API routes, and PostgreSQL with ORM  
 - **Dashboard App** – A dashboard using React + Next + data visualization  
-- **Open Source Contributions** – (List some repos you contributed to)  
-- **Profile Configs** – This repo holds my GitHub profile configs, README, and other visual setups
 
 ---
 
