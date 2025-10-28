@@ -1,6 +1,5 @@
 # 👋 Hi there, I’m Mohamad
 
-> Config files & showcase of my GitHub profile  
 > I’m a full-stack / web developer with a focus on Next.js, React, and PostgreSQL.
 
 ---
