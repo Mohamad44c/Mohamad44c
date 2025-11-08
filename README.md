@@ -8,7 +8,7 @@
 
 | Layer | Technologies |
 |---|---|
-| Frontend | React, Next.js, Tailwind CSS, Styled Components |
+| Frontend | React, Next.js, Tailwind CSS, Shadcn UI |
 | Backend / API | Node.js, Next.js API routes |
 | Database | PostgreSQL, Drizzle / pg |
 | DevOps / Vercel, Docker, GitHub Actions |
