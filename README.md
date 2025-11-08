@@ -45,7 +45,7 @@ Here are some of my notable works:
 ## 💼 Contact Me
 
 - 🏷️ GitHub: [Mohamad44c](https://github.com/Mohamad44c)  
-- 📫 Email: **mc@novium.io**  
+- 📫 Email: **mchebli008@hotmail.com**  
 
 ---
 
