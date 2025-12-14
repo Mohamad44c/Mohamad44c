@@ -48,6 +48,3 @@ Here are some of my notable works:
 - 📫 Email: **mchebli008@hotmail.com**  
 
 ---
-
-Thanks for stopping by! 👋  
-Let me know if you'd like me to generate the actual stats badges (or copy/paste embed codes) or further tweak the layout.
